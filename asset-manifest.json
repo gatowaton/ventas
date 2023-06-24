@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/ventas.github.io/static/css/main.f972b190.css",
-    "main.js": "/ventas.github.io/static/js/main.86473b8b.js",
-    "index.html": "/ventas.github.io/index.html",
-    "main.f972b190.css.map": "/ventas.github.io/static/css/main.f972b190.css.map",
-    "main.86473b8b.js.map": "/ventas.github.io/static/js/main.86473b8b.js.map"
+    "main.css": "/ventas/static/css/main.f972b190.css",
+    "main.js": "/ventas/static/js/main.86473b8b.js",
+    "index.html": "/ventas/index.html",
+    "main.f972b190.css.map": "/ventas/static/css/main.f972b190.css.map",
+    "main.86473b8b.js.map": "/ventas/static/js/main.86473b8b.js.map"
   },
   "entrypoints": [
     "static/css/main.f972b190.css",
